@@ -1,5 +1,6 @@
 {
+  "type": "module",
   "dependencies": {
-    "@consumet/extensions": "^latest"
+    "@consumet/extensions": "^1.7.0"
   }
 }
